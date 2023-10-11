@@ -33,5 +33,54 @@ html {
 }
 
 body {
+  background-color:#ede0d4 ;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.flexbox{
+  display: flex;
+width: 400px;
+flex-direction: column;
+align-items: center;
+justify-self: center;
+box-shadow: #e6ccb2 2rem;
+
+
+border: 1px solid;
+border-radius: 10px;
+
+
+background-color: white;
+padding: 1rem;
+}
+main p {
+  color: #e6ccb2;
+}
+main h2 {
+  font-size: 3rem;
+  color: #7f5539;
+}
+
+main h1{
+  color:     #9c6644
+}
+img {
+  align-self: baseline;
+
+.text {
+  color: black;
+}
+}
+.BUY-NOW-container{
+  display: flex;
+  background-color: #9c6644;
+  border: 1px solid;
+  border-radius: 10px;
+  font-size: 1rem;
+  
+}
+main h3 {
+  color: white;
+}
+
